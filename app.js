@@ -38,7 +38,7 @@ function ghostSummoner(id) {
     break;
   }
 
-  //this function is called by the summoner
+  //this function is called by the summoner, this is where the typing magic happens.
   function ghostWriter() {
     if (i < message.length) {
       container.innerHTML += message[i];

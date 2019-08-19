@@ -3,7 +3,7 @@
 
 ## Getting Started
 
-This is my personal website. It was developed using regular web-dev techniques and libraries.
+This is my personal website. It can be accessed via this url: https://pedrosalazarparedes.github.io/PedritoWebsite/. It was developed using regular web-dev techniques and libraries.
 
 ### Prerequisites
 
