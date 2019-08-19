@@ -13,7 +13,7 @@ var intro_message = "I'm an engineering student at "
     .split(""));
 var contact_info = "You can find me at p.salazar12[at]uniandes.edu.co and @pedrito8472 on "
   .split("")
-  .concat(["<a class=\"twitter\" href=\"twitter.com/pedrito8472\" target=\"_blank\">twitter</a>"])
+  .concat(["<a class=\"twitter\" href=\"https://twitter.com/pedrito8472\" target=\"_blank\">twitter</a>"])
   .concat(".".split(""));
 var projects = "At the moment I'm working on an autonomous program grading tool called "
   .split("")
@@ -38,7 +38,7 @@ function ghostSummoner(id) {
     break;
   }
 
-//this function is called by the summoner
+  //this function is called by the summoner
   function ghostWriter() {
     if (i < message.length) {
       container.innerHTML += message[i];
