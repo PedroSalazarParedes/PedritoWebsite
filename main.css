@@ -1,0 +1,42 @@
+html {
+    font-size: 16px;
+    background-color: #191919;
+}
+
+nav {
+  padding: 18px 20px 20px 20px;
+  background-color: #1E202A;
+  font-size: 0.85em;
+}
+
+a, a:hover {
+    text-decoration: none;
+    color: inherit;
+
+}
+
+.twitter {
+    color: #2d8eef;
+}
+
+.uniandes {
+      color: #fcf409;
+
+}
+
+.senecode {
+        color: #25cf1f;
+
+}
+
+#content {
+    padding: 18px 20px 20px 20px;
+}
+
+body {
+    background-color: #191919;
+    font-family: 'Roboto Mono', monospace;
+    color: #FFFFFF;
+}
+
+
