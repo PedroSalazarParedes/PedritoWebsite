@@ -12,6 +12,7 @@ var intro_message = "I'm an engineering student at "
   .concat(" and I'm interested in various topics. Among my interests are literature, liguistics, music, information theory, generative grammars, 3d printing, and the list keeps growing..."
     .split(""));
 var contact_info = "You can find me at p.salazar12[at]uniandes.edu.co and @pedrito8472 on "
+  .split("")
   .concat(["<a class=\"twitter\" href=\"twitter.com/pedrito8472\" target=\"_blank\">twitter</a>"])
   .concat(".".split(""));
 var projects = "At the moment I'm working on an autonomous program grading tool called "
